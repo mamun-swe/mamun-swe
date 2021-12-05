@@ -1,7 +1,7 @@
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Mamun-swe&show_icons=true&hide_border=true&theme=tokyonight" width="30%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mamun-swe&theme=tokyonight&hide_border=true" width="30%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=Mamun-swe&show_icons=true&hide_border=true&theme=tokyonight" width="49%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mamun-swe&theme=tokyonight&hide_border=true" width="49%" >
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamun-swe&theme=tokyonight&hide_border=true" width="30%" >
 
 <!-- ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamun-swe&theme=tokyonight&hide_border=true) -->
